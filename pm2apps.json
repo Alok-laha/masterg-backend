@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "name": "MasterG Project",
+      "script": "/home/ec2-user/masterg/server.js",
+      "env": {
+        "NODE_ENV": "production",
+        "PORT": "3580"
+      }
+    } 
+  ]
+}
